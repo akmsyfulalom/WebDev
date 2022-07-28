@@ -46,3 +46,7 @@
     background-blend-mode: overlay;
     background-color: rgba(0, 0, 0, 0.466);
 }
+
+.Price-color {
+    color: #289BDE;
+}
