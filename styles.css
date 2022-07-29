@@ -58,3 +58,12 @@
 .ready-to-bg {
     background-color: #289BDE;
 }
+
+
+
+@media screen and (max-width: 992px) {
+    .trusted-company {
+        visibility: hidden;
+    }
+
+}
